@@ -1,6 +1,15 @@
 # goit-no-sql-1
 
+## Зміст
+
+- [01_load_data.py - Результат](#01_load_datapy---результат)
+- [02_transform.js - Питання та Відповіді](#02_transformjs---питання-та-відповіді)
+- [part2_queries.js - Питання та Відповіді](#part2_queriesjs---питання-та-відповіді)
+- [part3_aggregations.js - Питання та Відповіді](#part3_aggregationsjs---питання-та-відповіді)
+- [part4_indexes.js - Питання та Відповіді](#part4_indexesjs---питання-та-відповіді)
+
 ## 01_load_data.py - Результат
+
 ![01_load_data.py - Результат cmd](images/1-import-result.png)
 ![01_load_data.py - Результат compass](images/2-import-result-compass.png)
 
@@ -207,7 +216,6 @@ db.tracks.aggregate([
 ![part3_aggregations.js - Результат task 1](images/6-part3-aggregations-task-1.png)
 ![part3_aggregations.js - Результат task 2](images/6-part3-aggregations-task-2.png)
 ![part3_aggregations.js - Результат task 3](images/6-part3-aggregations-task-3.png)
-
 
 ---
 
